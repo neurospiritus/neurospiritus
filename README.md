@@ -12,10 +12,6 @@ I combine the power of Artificial Intelligence with 3D graphics aesthetics to cr
 * **AI Agents:** Developing autonomous systems based on LLMs.
 * **3D Assets:** Handcrafted models and shaders with a "spirit".
 
-### 🧪 Current Research
-* 🚧 **Roomicon** — A Blender framework for procedural interior generation using curated asset libraries.
-* 🤖 **Cognitive Worlds** — Experimental simulation of virtual environments with autonomous AI agents and dynamic role-play dialogues.
----
 
 ### 📬 Connections
 If you want to collaborate or have questions, please **open an Issue** in this repository or reach out via GitHub profile.
